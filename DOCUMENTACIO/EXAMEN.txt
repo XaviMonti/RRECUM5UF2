@@ -56,3 +56,8 @@ nano EXAMEN.txt
 git add .
 git commit -m "Versio6"
 git push origin main
+
+EXERCICI7
+
+git merge projecte
+git push origin main
