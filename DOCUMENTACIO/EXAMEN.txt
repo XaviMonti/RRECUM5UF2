@@ -31,3 +31,13 @@ EXERCICI4
 git add .
 git commit -m "Versio4"
 git push origin main
+
+EXERCICI5
+
+mkdir M3
+cd M3
+mkdir M3UF5
+mkdir M3UF6
+git add .
+git commit -m "Versio5"
+git push origin main
