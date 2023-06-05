@@ -41,3 +41,18 @@ mkdir M3UF6
 git add .
 git commit -m "Versio5"
 git push origin main
+
+EXERCICI6
+
+git checkout -b projecte
+mkdir ESPECIFICACIO
+nano FULLBRAIN.txt
+git add .
+git commit -m "Versio6"
+git push origin projecte
+git checkout main
+cd DOCUMENTACIO
+nano EXAMEN.txt
+git add .
+git commit -m "Versio6"
+git push origin main
