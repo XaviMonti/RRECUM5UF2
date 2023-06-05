@@ -25,3 +25,9 @@ mkdir TEMARIS
 git add .
 git commit -m "Versio3"
 git push origin main
+
+EXERCICI4
+
+git add .
+git commit -m "Versio4"
+git push origin main
