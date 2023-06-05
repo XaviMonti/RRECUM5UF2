@@ -18,3 +18,10 @@ mkdir M5UF2
 git add .
 git commit -m "Versio2"
 git push origin main
+
+EXERCICI3
+
+mkdir TEMARIS
+git add .
+git commit -m "Versio3"
+git push origin main
