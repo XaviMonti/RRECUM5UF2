@@ -1,2 +1,20 @@
+EXERCICI1
+
+git init 
+git branch -M main
+git remote add origin https://github.com/XaviMonti/RRECUM5UF2.git
+nano RECUXaviMontero.txt
+
 mkdir DOCUMENTACIO
 nano EXAMEN.txt
+
+git add .
+git commit -m "Versio1"
+git push origin main
+
+EXERCICI2
+
+mkdir M5UF2
+git add .
+git commit -m "Versio2"
+git push origin main
